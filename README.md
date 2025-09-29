@@ -105,5 +105,5 @@ The interactive Excel dashboard summarizes all insights with filters for customi
 
 ## Connect with Me 👋
 [LinkedIn](https://www.linkedin.com/in/wisdom-douglas/) | 
-[GitHub]()
+[GitHub](https://github.com/wizglobal-tech)
 
