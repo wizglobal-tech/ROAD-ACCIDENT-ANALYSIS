@@ -47,7 +47,8 @@ The analysis revealed compelling patterns. Let's explore them with questions to 
 - Breakdown: Fatal (2,319, 0.91%), Serious (30,433, 11.89%), Slight (223,112, 87.20%).
 Why might slight injuries dominate? Could early interventions in minor accidents prevent escalation?
 
-Screenshot (485)
+<img width="117" height="41" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/b0816b27-ee42-44b7-93b9-460ac4f6ffe1" />
+
 
 #### 2. Casualties by Vehicle Type
 - Cars: 203,357 (79.5%), Bikes: 21,218 (8.3%), Vans: 20,416 (8.0%), Buses: 7,444 (2.9%), Agricultural: 598 (0.2%),
