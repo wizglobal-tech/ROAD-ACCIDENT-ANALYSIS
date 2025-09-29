@@ -54,18 +54,56 @@ Why might slight injuries dominate? Could early interventions in minor accidents
 - Cars: 203,357 (79.5%), Bikes: 21,218 (8.3%), Vans: 20,416 (8.0%), Buses: 7,444 (2.9%), Agricultural: 598 (0.2%),
 -  Others: 2,831 (1.1%).
 Maximum by type: Cars. What role do vehicle volumes versus safety features play?
-Screenshot (486) 1
+
+<img width="255" height="174" alt="Screenshot (486) 1" src="https://github.com/user-attachments/assets/e6d5f229-3d84-4990-8d7a-43617f6b4bfb" />
 
 #### 3. Monthly Trends (2021 vs. 2022)
 - 2021 Total: 134,613 (higher peaks in Nov-Dec).
 
 - 2022 Total: 121,251 (general decline).
 
-- Why the drop? Post-COVID travel changes or improved safety measures?
-  Screenshot (490) 1
+- Why the drop? Post-COVID travel changes or improved safety measures
+  
+  <img width="399" height="230" alt="Screenshot (490) 1" src="https://github.com/user-attachments/assets/c350d0f7-f095-4ca1-9d37-5a00b4264ec9" />
+
 
 #### 4.  Light Conditions and Time of Day
 - Daylight: 186,161 (72.75%), Darkness: 69,703 (27.25%).
 - Does higher daylight volume reflect more traffic, or overlooked risks like distractions?
-  Screenshot (493)1
+
+  <img width="321" height="313" alt="Screenshot (493)1" src="https://github.com/user-attachments/assets/1421daef-e994-4a65-a1f9-37b5e721fa27" />
+
+#### 5.  Road Type and Surface Distribution
+- Road Types: Single carriageway (196,600, 76.85%), Dual (32,400, 12.66%), Roundabout (17,200, 6.72%).
+- Surfaces: Dry (181,484, 70.91%), Wet (64,567, 25.23%), Ice/Snow (9,813, 3.83%).
+- Notice correlations: Most on dry, single carriageways. How might weather interact with infrastructure?
+
+  <img width="240" height="108" alt="Screenshot (492)1" src="https://github.com/user-attachments/assets/1cc427ce-948c-4942-83c3-92416a77864e" />
+  <img width="257" height="178" alt="Screenshot (491)1" src="https://github.com/user-attachments/assets/c9165707-b29a-4400-86ea-637aa4a30e9a" />
+
+#### 6. Location Focus
+- All visualized data filtered to urban areas (255,864). Why prioritize urban? Higher density amplifies risks.
+
+### Recommendations
+Based on patterns, consider:
+- Target car safety campaigns, as they dominate casualties. What tech like auto-braking could help?
+- Boost awareness for daylight driving risks, perhaps via apps alerting to high-traffic times.
+- Improve single carriageway infrastructure (e.g., better lighting on wet surfaces) to address 76.85% of incidents.
+- Use monthly trends for seasonal alerts, focusing on winter peaks.
+- Expand analysis to rural data for comprehensive views.
+
+### Strategic Goals
+- Empower stakeholders (governments, insurers) with data for targeted interventions.
+- Reduce overall casualties by 10-20% through evidence-based policies.
+- Promote data literacy in road safety to build community-driven changes.
+- Foster ongoing analysis for long-term trends, like post-2022 updates.
+
+### Dashboard
+The interactive Excel dashboard summarizes all insights with filters for customization.
+
+<img width="1008" height="498" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/1f22f9ec-1c68-4e1c-a908-424241db75cb" />
+
+## Connect with Me 👋
+[LinkedIn](https://www.linkedin.com/in/wisdom-douglas/) | 
+[GitHub]()
 
